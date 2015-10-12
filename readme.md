@@ -24,3 +24,10 @@ process.
 - xlwt
 - os
 - collections
+
+### Note: You can use the setup.py file to make this program an executable (.exe) 
+*Use: *
+
+```
+python setup.py py2exe
+```
